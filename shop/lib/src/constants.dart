@@ -44,6 +44,7 @@ class AppConstants {
   static const int defaultLaptopId = 1;
   static const String defaultLaptopName = 'Laptop';
   static const double defaultLaptopPrice = 999.99;
+  //hola 
 
   static const int defaultSmartphoneId = 2;
   static const String defaultSmartphoneName = 'Smartphone';
